@@ -34,10 +34,22 @@ https://stablecoinindex.com/stablecoin-resources/
 
 Data resources:
 
-ICOs/Token Sales
+ICOs/Token Sales and Treasuries
 https://www.smithandcrown.com/sale/
-
-ICO Treasuries
 https://app.santiment.net/ethereum-spent
 https://projecttransparency.org/
 http://www.dappcapitulation.com/
+
+General:
+https://onchainfx.com/
+https://coinmetrics.io/
+https://arewedecentralizedyet.com/
+https://messari.io/
+
+Newsletters:
+Token Economy: http://weekly.tokeneconomy.co/
+ARK Disrupt: https://ark-invest.com/disruptive-innovation-research
+Marty's Bent: https://twitter.us16.list-manage.com/subscribe?u=67eb93253df610fc7b047c270&id=1cdbed15b1
+
+Charts:
+NVT Signal: http://charts.woobull.com/bitcoin-nvt-signal/
