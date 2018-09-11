@@ -9,9 +9,7 @@ Context:
 
 Why distributed networks?:
 
-
-
-Why decentralization matters (Chris Dixon): https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e
+- Why decentralization matters (Chris Dixon): https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e
 
 - Crypto Tokens: A breakthrough in open network design (Chris Dixon): https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
 
@@ -42,12 +40,11 @@ Fund Investment Theses:
 
 Fat Protocols Dialogue:
 
-- Fat Protocols (Joel Monegro): 
-  - http://www.usv.com/blog/fat-protocols
+- Fat Protocols (Joel Monegro): http://www.usv.com/blog/fat-protocols
 
 - CoinFund Retort ^ Fat protocols are not an investment thesis (Jake Bruhkman): https://blog.coinfund.io/fat-protocols-are-not-an-investment-thesis-17c8837c2734
 
-Thin Protocols (Teemu Paivenen): https://blog.zeppelin.solutions/thin-protocols-cc872258379f
+- Thin Protocols (Teemu Paivenen): https://blog.zeppelin.solutions/thin-protocols-cc872258379f
 
 --------------------------
 
@@ -57,13 +54,13 @@ Bitcoin
 
 
 
-Visions of Bitcoin (Nic Carter, hasufly): https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c
+- Visions of Bitcoin (Nic Carter, hasufly): https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c
 
-The Bullish Case for Bitcoin, March 2018: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
+- The Bullish Case for Bitcoin, March 2018: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
 
-Bitcoin: we don't expect new highs in 2018 (Tuur Demeester): https://medium.com/@tuurdemeester/bitcoin-we-dont-expect-new-highs-in-2018-97e6a7a385f7
+- Bitcoin: we don't expect new highs in 2018 (Tuur Demeester): https://medium.com/@tuurdemeester/bitcoin-we-dont-expect-new-highs-in-2018-97e6a7a385f7
 
-Extensive Bitcoin Resource List (Jameson Lopp): https://lopp.net/bitcoin.html
+- Extensive Bitcoin Resource List (Jameson Lopp): https://lopp.net/bitcoin.html
 
 
 Ethereum:
@@ -77,7 +74,7 @@ Smart Contract Protocols:
 
 Stablecoins:
 
-Stablecoin resource list: https://stablecoinindex.com/stablecoin-resources/
+- Stablecoin resource list: https://stablecoinindex.com/stablecoin-resources/
 
 
 --------------------
@@ -86,14 +83,14 @@ Concepts
 
 Cryptoeconomics:
 
-Cryptoeconomics is hard (Aleksander Bulkin): https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9
+- Cryptoeconomics is hard (Aleksander Bulkin): https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9
 
 
 Decentralization:
 
-The meaning of decentralization (Vitalik Buterin): https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+- The meaning of decentralization (Vitalik Buterin): https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 
-Quantifying decentralization (Balaji Srinivasan): https://news.earn.com/quantifying-decentralization-e39db233c28e
+- Quantifying decentralization (Balaji Srinivasan): https://news.earn.com/quantifying-decentralization-e39db233c28e
 
 
 Crypto Primitives:
@@ -105,19 +102,19 @@ Crypto Primitives:
 
 Newsletters
 
-Token Economy: http://weekly.tokeneconomy.co/
+- Token Economy: http://weekly.tokeneconomy.co/
 
-Proof of Work: https://proofofwork.substack.com/subscribe
+- Proof of Work: https://proofofwork.substack.com/subscribe
 
-ARK Disrupt: https://ark-invest.com/disruptive-innovation-research
+- ARK Disrupt: https://ark-invest.com/disruptive-innovation-research
 
-Marty's Bent: https://twitter.us16.list-manage.com/subscribe?u=67eb93253df610fc7b047c270&id=1cdbed15b1
+- Marty's Bent: https://twitter.us16.list-manage.com/subscribe?u=67eb93253df610fc7b047c270&id=1cdbed15b1
 
 ----------------------------------
 
 Charts
 
-NVT Signal: http://charts.woobull.com/bitcoin-nvt-signal/
+- NVT Signal: http://charts.woobull.com/bitcoin-nvt-signal/
 
 ----------------------------------
 
@@ -125,31 +122,31 @@ Data Resources
 
 ICOs/Token Sales:
 
-https://www.smithandcrown.com/sale/
+- https://www.smithandcrown.com/sale/
 
 ICOs/Token Treasuries:
 
-Santiment: https://app.santiment.net/ethereum-spent
+- Santiment: https://app.santiment.net/ethereum-spent
 
-Project Transparency (Santiment): https://projecttransparency.org/
+- Project Transparency (Santiment): https://projecttransparency.org/
 
-Dapp capitulation (Brendan Bernstein): http://www.dappcapitulation.com/
+- Dapp capitulation (Brendan Bernstein): http://www.dappcapitulation.com/
 
-Diar: https://diar.co/ico-treasury-balances/
+- Diar: https://diar.co/ico-treasury-balances/
 
 General:
 
-Onchainfx (Dan McArdle): https://onchainfx.com/
+- Onchainfx (Dan McArdle): https://onchainfx.com/
 
-Coinmetrics (Nic Carter): https://coinmetrics.io/
+- Coinmetrics (Nic Carter): https://coinmetrics.io/
 
-Are we decentralized yet? (Jackson Palmer): https://arewedecentralizedyet.com/
+- Are we decentralized yet? (Jackson Palmer): https://arewedecentralizedyet.com/
 
-Messari (Ryan Selkis): https://messari.io/
+- Messari (Ryan Selkis): https://messari.io/
 
 Ecosystem:
 
-Epicenter: https://epicenter.tv/episodes/
+- Epicenter: https://epicenter.tv/episodes/
 
 ---------------------------------
 
