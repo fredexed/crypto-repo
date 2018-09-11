@@ -19,7 +19,7 @@ Foundations:
 
 - The bitcoin whitepaper (Satoshi Nakamoto): https://bitcoin.org/bitcoin.pdf, https://www.youtube.com/watch?v=2u2x4T5HfsY
 
-- Bitcoin's Academic Pedigree (Arvind Narayanan): https://queue.acm.org/detail.cfm?id=3136559
+- Bitcoin's academic pedigree (Arvind Narayanan): https://queue.acm.org/detail.cfm?id=3136559
 
 -------------------------------
 
@@ -47,7 +47,7 @@ The Basics:
 
 - Hashpower, a three-part podcast by Patrick O'Shughnessey: http://investorfieldguide.com/hashpower/
 
-- Blockchain Tokens and the dawn of the Decentralized Business Model (Fred Ehrsam): https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f
+- Blockchain tokens and the dawn of the Decentralized Business Model (Fred Ehrsam): https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f
 
 - What do we mean by “blockchains are trustless”? (Preeti Kasireddy): https://medium.com/@preethikasireddy/eli5-what-do-we-mean-by-blockchains-are-trustless-aa420635d5f6
 
@@ -55,15 +55,15 @@ The Basics:
 
 - Ethereum in 25 minutes (Vitalik Buterin) - note, skip to 2min in: https://www.youtube.com/watch?v=66SaEDzlmP4&feature=youtu.be
 
-- An Intro to Crypto: Building Blocks (Linda Xie): https://a16z.com/2018/05/04/intro-to-crypto/
+- An intro to crypto: building blocks (Linda Xie): https://a16z.com/2018/05/04/intro-to-crypto/
 
 - Blockchain: the revolution we're not ready for (Haseeb Qureshi): https://haseebq.com/blockchain-the-revolution-were-not-ready-for/
 
 ICOs/Token Sales:
 
-- Funding the Evolution of Blockchains (Fred Ehrsam): https://medium.com/@FEhrsam/funding-the-evolution-of-blockchains-87d160988481
+- Funding the evolution of blockchains (Fred Ehrsam): https://medium.com/@FEhrsam/funding-the-evolution-of-blockchains-87d160988481
 
-- Analyzing Token Sale Models (Vitalik Buterin): https://vitalik.ca/general/2017/06/09/sales.html
+- Analyzing token sale models (Vitalik Buterin): https://vitalik.ca/general/2017/06/09/sales.html
 
 - Blockchain project ecosystem: https://medium.com/@josh_nussbaum/blockchain-project-ecosystem-8940ababaf27
 
@@ -74,7 +74,7 @@ Use cases:
 
 Valuation
 
-- Valuation Frameworks:
+- Frameworks:
 
   - Mosaic: https://s3.us-east-2.amazonaws.com/lanreige/Cryptoasset+Valuation+Techniques.pdf
   
@@ -96,9 +96,9 @@ Fat Protocols Dialogue:
 
 - Fat Protocols (Joel Monegro): http://www.usv.com/blog/fat-protocols
 
-- CoinFund Retort ^ Fat protocols are not an investment thesis (Jake Bruhkman): https://blog.coinfund.io/fat-protocols-are-not-an-investment-thesis-17c8837c2734
+- CoinFund retort ^ Fat protocols are not an investment thesis (Jake Bruhkman): https://blog.coinfund.io/fat-protocols-are-not-an-investment-thesis-17c8837c2734
 
-- Thin Protocols (Teemu Paivenen): https://blog.zeppelin.solutions/thin-protocols-cc872258379f
+- Thin protocols (Teemu Paivenen): https://blog.zeppelin.solutions/thin-protocols-cc872258379f
 
 - Putting an end to thoughtless heuristics (Aleksander Bulkin): https://blog.coinfund.io/invest-in-protocols-or-applications-putting-an-end-to-thoughtless-heuristics-8cb477575db1
 
@@ -117,22 +117,22 @@ Topic Drill Down
   
   - Bitcoin: we don't expect new highs in 2018 (Tuur Demeester): https://medium.com/@tuurdemeester/bitcoin-we-dont-expect-new-highs-in-2018-97e6a7a385f7
   
-  - Extensive Bitcoin Resource List (Jameson Lopp): https://lopp.net/bitcoin.html
+  - Extensive bitcoin resource list (Jameson Lopp): https://lopp.net/bitcoin.html
 
 - Ethereum:
   - Ethereum whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
   
-  - What is Ethereum?: https://github.com/ethereum/wiki/wiki/What-is-Ethereum
+  - What is ethereum?: https://github.com/ethereum/wiki/wiki/What-is-Ethereum
   
-  - A Prehistory of the Ethereum Protocol (Vitalik Buterin): https://vitalik.ca/general/2017/09/14/prehistory.html
+  - A prehistory of the ethereum protocol (Vitalik Buterin): https://vitalik.ca/general/2017/09/14/prehistory.html
   
-  - The Bull Case For Ethereum with Spencer Noon, Cyrus Unesi and Tony Sheng: https://www.spreaker.com/user/10197011/spencer-cyrus-tony
+  - The bull case For ethereum with Spencer Noon, Cyrus Unesi and Tony Sheng: https://www.spreaker.com/user/10197011/spencer-cyrus-tony
 
 
 - Privacy Coins:
-  - Zcash vs. Monero: Blockchain’s Fundamental Need for Privacy: https://medium.com/theblock1/privacy-blockchains-fundamental-need-acf0a1c52cb4
+  - Zcash vs. monero: blockchain’s fundamental need for privacy: https://medium.com/theblock1/privacy-blockchains-fundamental-need-acf0a1c52cb4
   
-  - A Monero Introduction for Beginners: https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners
+  - A monero introduction for beginners: https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners
   
   - What are zk-SNARKs? (Jay Graber): https://z.cash/technology/zksnarks.html
   
@@ -140,9 +140,9 @@ Topic Drill Down
 
 
 - Smart Contract Protocols:
-  - The Evolution of Smart Contracts: https://hackernoon.com/are-smart-contracts-the-future-1d9028f49743
+  - The evolution of smart contracts: https://hackernoon.com/are-smart-contracts-the-future-1d9028f49743
   
-  - The difference between App Coins and Protocol Tokens (Will Warren): https://blog.0xproject.com/the-difference-between-app-coins-and-protocol-tokens-7281a428348c
+  - The difference between app coins and protocol tokens (Will Warren): https://blog.0xproject.com/the-difference-between-app-coins-and-protocol-tokens-7281a428348c
   
   - A red ocean for smart contract protocols (Tony Sheng): https://www.tonysheng.com/red-ocean
 
@@ -271,7 +271,7 @@ ICOs/Token Treasuries:
 
 - Santiment: https://app.santiment.net/ethereum-spent
 
-- Project Transparency (Santiment): https://projecttransparency.org/
+- Project transparency (Santiment): https://projecttransparency.org/
 
 - Dapp capitulation (Brendan Bernstein): http://www.dappcapitulation.com/
 
