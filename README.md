@@ -110,6 +110,9 @@ Newsletters
 
 - Marty's Bent: https://twitter.us16.list-manage.com/subscribe?u=67eb93253df610fc7b047c270&id=1cdbed15b1
 
+- Relayer Report: https://0xprotocol.substack.com/welcome
+  - A biweekly update on the 0x ecosystem
+
 ----------------------------------
 
 Charts
