@@ -1,9 +1,25 @@
 # crypto-repo
 A monster resource list for the intrepid crypto learner
 
-Pre-cursors
+Pre-cursors / The Why
+
+Context:
 
 The Ethics of Money Production,  Jorg Guido Hulsmann: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
+
+Why distributed networks?:
+
+
+
+Why decentralization matters (Chris Dixon): https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e
+
+Crypto Tokens: A breakthrough in open network design (Chris Dixon): https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
+
+Thoughts on Tokens (Balaji Srinivasan): https://news.earn.com/thoughts-on-tokens-436109aabcbe
+
+Crypto tokens and the coming age of protocols (Albert Wenger): https://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol
+
+
 
 -------------------------
 
@@ -12,22 +28,77 @@ Valuation
 Valuation Frameworks:
 
 Mosaic: https://s3.us-east-2.amazonaws.com/lanreige/Cryptoasset+Valuation+Techniques.pdf
+
 John Pfeffer: https://s3.eu-west-2.amazonaws.com/john-pfeffer/An+Investor%27s+Take+on+Cryptoassets+v6.pdf
+
+Chris Burniske: https://medium.com/@cburniske/cryptoasset-valuations-ac83479ffca7
+
 Alex Evans: https://medium.com/blockchannel/on-value-velocity-and-monetary-theory-a-new-approach-to-cryptoasset-valuations-32c9b22e3b6f
 
 
 Fund Investment Theses:
 
 Placeholder: https://ipfs.io/ipfs/QmZL4eT1gxnE168Pmw3KyejW6fUfMNzMgeKMgcWJUfYGRj/Placeholder%20Thesis%20Summary.pdf
-CoinFund Retort ^: https://blog.coinfund.io/fat-protocols-are-not-an-investment-thesis-17c8837c2734
+
+Fat Protocols Dialogue:
+
+Fat Protocols (Joel Monegro): http://www.usv.com/blog/fat-protocols
+
+CoinFund Retort ^ Fat protocols are not an investment thesis (Jake Bruhkman): https://blog.coinfund.io/fat-protocols-are-not-an-investment-thesis-17c8837c2734
+
+Thin Protocols (Teemu Paivenen): https://blog.zeppelin.solutions/thin-protocols-cc872258379f
 
 --------------------------
 
-Themes
+Topic Drill Down
+
+Bitcoin
+
+
+
+Visions of Bitcoin (Nic Carter, hasufly): https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c
+
+The Bullish Case for Bitcoin, March 2018: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
+
+Bitcoin: we don't expect new highs in 2018 (Tuur Demeester): https://medium.com/@tuurdemeester/bitcoin-we-dont-expect-new-highs-in-2018-97e6a7a385f7
+
+Extensive Bitcoin Resource List (Jameson Lopp): https://lopp.net/bitcoin.html
+
+
+Ethereum:
+
+
+Privacy Coins:
+
+
+Smart Contract Protocols:
+
 
 Stablecoins:
 
 Stablecoin resource list: https://stablecoinindex.com/stablecoin-resources/
+
+
+--------------------
+
+Concepts
+
+Cryptoeconomics:
+
+Cryptoeconomics is hard (Aleksander Bulkin): https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9
+
+
+Decentralization:
+
+The meaning of decentralization (Vitalik Buterin): https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+
+Quantifying decentralization (Balaji Srinivasan): https://news.earn.com/quantifying-decentralization-e39db233c28e
+
+
+Crypto Primitives:
+
+- TCRs
+
 
 --------------------------
 
@@ -57,33 +128,27 @@ https://www.smithandcrown.com/sale/
 
 ICOs/Token Treasuries:
 
-https://app.santiment.net/ethereum-spent
+Santiment: https://app.santiment.net/ethereum-spent
 
-https://projecttransparency.org/
+Project Transparency (Santiment): https://projecttransparency.org/
 
-http://www.dappcapitulation.com/
+Dapp capitulation (Brendan Bernstein): http://www.dappcapitulation.com/
 
-https://diar.co/ico-treasury-balances/
+Diar: https://diar.co/ico-treasury-balances/
 
 General:
 
-https://onchainfx.com/
+Onchainfx (Dan McArdle): https://onchainfx.com/
 
-https://coinmetrics.io/
+Coinmetrics (Nic Carter): https://coinmetrics.io/
 
-https://arewedecentralizedyet.com/
+Are we decentralized yet? (Jackson Palmer): https://arewedecentralizedyet.com/
 
-https://messari.io/
+Messari (Ryan Selkis): https://messari.io/
 
-----------------------------------
+Ecosystem:
 
-Markets
+Epicenter: https://epicenter.tv/episodes/
 
-The Bulls:
-
-The Bullish Case for Bitcoin, March 2018: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
-
----
-
-The Bears:
+---------------------------------
 
