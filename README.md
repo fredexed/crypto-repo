@@ -20,7 +20,7 @@ Placeholder: https://ipfs.io/ipfs/QmZL4eT1gxnE168Pmw3KyejW6fUfMNzMgeKMgcWJUfYGRj
 
 --------------------------
 
-Themes:
+Themes
 
 Stablecoins:
 
@@ -28,7 +28,7 @@ Stablecoin resource list: https://stablecoinindex.com/stablecoin-resources/
 
 --------------------------
 
-Newsletters:
+Newsletters
 
 Token Economy: http://weekly.tokeneconomy.co/
 
@@ -40,13 +40,13 @@ Marty's Bent: https://twitter.us16.list-manage.com/subscribe?u=67eb93253df610fc7
 
 ----------------------------------
 
-Charts:
+Charts
 
 NVT Signal: http://charts.woobull.com/bitcoin-nvt-signal/
 
 ----------------------------------
 
-Data resources:
+Data resources
 
 ICOs/Token Sales and Treasuries:
 
@@ -70,7 +70,7 @@ https://messari.io/
 
 ----------------------------------
 
-Markets:
+Markets
 
 The Bulls:
 
