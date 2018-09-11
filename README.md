@@ -251,7 +251,7 @@ General:
 
 ---------------------------------
 
-Academic resources:
+Academic foundations:
 
 - The Ethics of Money Production,  Jorg Guido Hulsmann: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
 
