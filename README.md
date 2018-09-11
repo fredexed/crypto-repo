@@ -46,17 +46,21 @@ NVT Signal: http://charts.woobull.com/bitcoin-nvt-signal/
 
 ----------------------------------
 
-Data resources
+Data Resources
 
-ICOs/Token Sales and Treasuries:
+ICOs/Token Sales:
 
 https://www.smithandcrown.com/sale/
+
+ICOs/Token Treasuries:
 
 https://app.santiment.net/ethereum-spent
 
 https://projecttransparency.org/
 
 http://www.dappcapitulation.com/
+
+https://diar.co/ico-treasury-balances/
 
 General:
 
