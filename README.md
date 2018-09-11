@@ -12,11 +12,14 @@ Valuation
 Valuation Frameworks:
 
 Mosaic: https://s3.us-east-2.amazonaws.com/lanreige/Cryptoasset+Valuation+Techniques.pdf
+John Pfeffer: https://s3.eu-west-2.amazonaws.com/john-pfeffer/An+Investor%27s+Take+on+Cryptoassets+v6.pdf
+Alex Evans: https://medium.com/blockchannel/on-value-velocity-and-monetary-theory-a-new-approach-to-cryptoasset-valuations-32c9b22e3b6f
 
 
 Fund Investment Theses:
 
 Placeholder: https://ipfs.io/ipfs/QmZL4eT1gxnE168Pmw3KyejW6fUfMNzMgeKMgcWJUfYGRj/Placeholder%20Thesis%20Summary.pdf
+CoinFund Retort ^: https://blog.coinfund.io/fat-protocols-are-not-an-investment-thesis-17c8837c2734
 
 --------------------------
 
