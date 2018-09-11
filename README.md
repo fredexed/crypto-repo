@@ -9,9 +9,17 @@ A letter to Jamie Dimon (Adam Ludwin, CEO of Interstellar ex. Chain): https://bl
 
 -------------------------------
 
-Context:
+Easing into it:
 
-- The Ethics of Money Production,  Jorg Guido Hulsmann: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
+- Banking on Bitcoin: https://www.netflix.com/title/80154500
+
+------------------------------
+
+History / Context: 
+
+- The bitcoin whitepaper (Satoshi Nakamoto): https://bitcoin.org/bitcoin.pdf, https://www.youtube.com/watch?v=2u2x4T5HfsY
+
+- Bitcoin's Academic Pedigree (Arvind Narayanan): https://queue.acm.org/detail.cfm?id=3136559
 
 -------------------------------
 
@@ -25,32 +33,59 @@ Why distributed networks?:
 
 - Crypto tokens and the coming age of protocols (Albert Wenger): https://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol
 
+- Why bitcoin matters? (Marc Andressen): https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/
+
 -------------------------------
 
 The Basics:
 
-Blockchain Tokens and the dawn of the Decentralized Business Model (Fred Ehrsam): https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f
+- Blockchain 101 (Coincenter): https://coincenter.org/learn
 
+- WTF is a blockchain?: https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348
 
+- Hashpower, a three-part podcast by Patrick O'Shughnessey: http://investorfieldguide.com/hashpower/
+
+- Blockchain Tokens and the dawn of the Decentralized Business Model (Fred Ehrsam): https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f
+
+- What do we mean by “blockchains are trustless”? (Preeti Kasireddy): https://medium.com/@preethikasireddy/eli5-what-do-we-mean-by-blockchains-are-trustless-aa420635d5f6
+
+- Tim Ferris podcast Nick Szabo and Naval Ravikant: https://tim.blog/2017/06/04/nick-szabo/
+
+- Ethereum in 25 minutes (Vitalik Buterin) - note, skip to 2min in: https://www.youtube.com/watch?v=66SaEDzlmP4&feature=youtu.be
+
+- Ethereum whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
+
+- An Intro to Crypto: Building Blocks (Linda Xie): https://a16z.com/2018/05/04/intro-to-crypto/
+
+ICOs/Token Sales:
+
+- Funding the Evolution of Blockchains (Fred Ehrsam): https://medium.com/@FEhrsam/funding-the-evolution-of-blockchains-87d160988481
+
+- Analyzing Token Sale Models (Vitalik Buterin): https://vitalik.ca/general/2017/06/09/sales.html
+
+- Blockchain project ecosystem: https://medium.com/@josh_nussbaum/blockchain-project-ecosystem-8940ababaf27
 
 -------------------------
 
 Valuation
 
-Valuation Frameworks:
+- Valuation Frameworks:
 
-- Mosaic: https://s3.us-east-2.amazonaws.com/lanreige/Cryptoasset+Valuation+Techniques.pdf
+  - Mosaic: https://s3.us-east-2.amazonaws.com/lanreige/Cryptoasset+Valuation+Techniques.pdf
+  
+  - John Pfeffer: https://s3.eu-west-2.amazonaws.com/john-pfeffer/An+Investor%27s+Take+on+Cryptoassets+v6.pdf
+  
+  - Chris Burniske: https://medium.com/@cburniske/cryptoasset-valuations-ac83479ffca7
+  
+  - Alex Evans: https://medium.com/blockchannel/on-value-velocity-and-monetary-theory-a-new-approach-to-cryptoasset-valuations-32c9b22e3b6f
 
-- John Pfeffer: https://s3.eu-west-2.amazonaws.com/john-pfeffer/An+Investor%27s+Take+on+Cryptoassets+v6.pdf
-
-- Chris Burniske: https://medium.com/@cburniske/cryptoasset-valuations-ac83479ffca7
-
-- Alex Evans: https://medium.com/blockchannel/on-value-velocity-and-monetary-theory-a-new-approach-to-cryptoasset-valuations-32c9b22e3b6f
-
+---
 
 Fund Investment Theses:
 
 - Placeholder: https://ipfs.io/ipfs/QmZL4eT1gxnE168Pmw3KyejW6fUfMNzMgeKMgcWJUfYGRj/Placeholder%20Thesis%20Summary.pdf
+
+---
 
 Fat Protocols Dialogue:
 
@@ -70,32 +105,36 @@ Fat Protocols Dialogue:
 
 Topic Drill Down
 
-Bitcoin
+- Bitcoin
+  - Visions of Bitcoin (Nic Carter, hasufly): https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c
+  
+  - The Bullish Case for Bitcoin, March 2018: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
+  
+  - Bitcoin: we don't expect new highs in 2018 (Tuur Demeester): https://medium.com/@tuurdemeester/bitcoin-we-dont-expect-new-highs-in-2018-97e6a7a385f7
+  
+  - Extensive Bitcoin Resource List (Jameson Lopp): https://lopp.net/bitcoin.html
+
+- Ethereum:
 
 
-
-- Visions of Bitcoin (Nic Carter, hasufly): https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c
-
-- The Bullish Case for Bitcoin, March 2018: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
-
-- Bitcoin: we don't expect new highs in 2018 (Tuur Demeester): https://medium.com/@tuurdemeester/bitcoin-we-dont-expect-new-highs-in-2018-97e6a7a385f7
-
-- Extensive Bitcoin Resource List (Jameson Lopp): https://lopp.net/bitcoin.html
+- Privacy Coins:
 
 
-Ethereum:
+- Smart Contract Protocols:
 
 
-Privacy Coins:
-
-
-Smart Contract Protocols:
-
-
-Stablecoins:
-
-- Stablecoin resource list: https://stablecoinindex.com/stablecoin-resources/
-
+- Stablecoins:
+  - The search for a stable cryptocurrency (Vitalik Buterin): https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/
+  
+  - An overview of stablecoins (Myles Snider): https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/
+  
+  - Maker for Dummies: A Plain English Explanation of the Dai Stablecoin (Gregory DiPrisco): https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90
+  
+  - Stablecoin resource list (Myles Snider): https://stablecoinindex.com/stablecoin-resources/
+  
+  
+- Security Tokens
+  - The security token thesis (Stephen McKeon): https://hackernoon.com/the-security-token-thesis-4c5904761063
 
 --------------------
 
@@ -103,6 +142,8 @@ Concepts
 
 Cryptoeconomics:
 
+- Making sense of cryptoeconomics (Josh Stark): https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d
+- The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics: https://medium.com/cryptoeconomics-australia/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4
 - Cryptoeconomics is hard (Aleksander Bulkin): https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9
 
 
@@ -114,6 +155,8 @@ Decentralization:
 
 - Quantifying decentralization (Balaji Srinivasan): https://news.earn.com/quantifying-decentralization-e39db233c28e
 
+- Decentralization in Bitcoin and Ethereum: http://hackingdistributed.com/2018/01/15/decentralization-bitcoin-ethereum/
+
 
 Crypto Primitives:
 
@@ -123,6 +166,9 @@ Crypto Primitives:
   - Introducing curation markets (Simon de la Rouviere): https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881
   - Tweetstorm from Fred Ehrsam: https://twitter.com/FEhrsam/status/958388803655184386
   - Curate This: Token Curated Registries That Don’t Work (Aleksander Bulkin): https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150
+  
+- Cryptocollectibles
+  - Digital Collectibles and the Weird Future of “Digibles” (Josh Stark): https://hackernoon.com/digital-collectibles-and-the-weird-future-of-digibles-f75f4bf0f9aa
 
 The Markets:
 
@@ -143,6 +189,8 @@ Newsletters
 
 - Relayer Report: https://0xprotocol.substack.com/welcome
   - A biweekly update on the 0x ecosystem
+  
+- Satis Group Crypto Week in Review: https://satisgroup.io/
 
 ----------------------------------
 
@@ -162,13 +210,20 @@ Blogs
 
 - Learning Slowly - John Gleeson: https://www.learningslowly.co/
 
+- Vitalik Buterin: https://vitalik.ca/
+
 ----------------------------------
+
+Podcasts
+
+- a16z: https://soundcloud.com/a16z
 
 Data Resources
 
 Ecosystem:
 
 - Epicenter: https://epicenter.tv/episodes/
+- Beginner guides to cryptoassets: https://medium.com/@linda.xie/beginners-guide-series-on-cryptoassets-d897535d887
 
 ICOs/Token Sales:
 
@@ -196,3 +251,10 @@ General:
 
 ---------------------------------
 
+Academic resources:
+
+- The Ethics of Money Production,  Jorg Guido Hulsmann: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
+
+- The Byzantine General's Problem (Lamport, Shostak, Pease 1982): https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf (add more digestable version)
+
+- The Idea of Smart Contracts (Nick Szabo, 1997): http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html
