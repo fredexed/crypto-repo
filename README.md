@@ -1,11 +1,19 @@
 # crypto-repo
 A monster resource list for the intrepid crypto learner
 
-Pre-cursors / The Why
+-------------------------------
+
+If you only have 20 minutes:
+
+A letter to Jamie Dimon (Adam Ludwin, CEO of Interstellar ex. Chain): https://blog.chain.com/a-letter-to-jamie-dimon-de89d417cb80
+
+-------------------------------
 
 Context:
 
 - The Ethics of Money Production,  Jorg Guido Hulsmann: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
+
+-------------------------------
 
 Why distributed networks?:
 
@@ -16,6 +24,12 @@ Why distributed networks?:
 - Thoughts on Tokens (Balaji Srinivasan): https://news.earn.com/thoughts-on-tokens-436109aabcbe
 
 - Crypto tokens and the coming age of protocols (Albert Wenger): https://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol
+
+-------------------------------
+
+The Basics:
+
+Blockchain Tokens and the dawn of the Decentralized Business Model (Fred Ehrsam): https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f
 
 
 
@@ -45,6 +59,12 @@ Fat Protocols Dialogue:
 - CoinFund Retort ^ Fat protocols are not an investment thesis (Jake Bruhkman): https://blog.coinfund.io/fat-protocols-are-not-an-investment-thesis-17c8837c2734
 
 - Thin Protocols (Teemu Paivenen): https://blog.zeppelin.solutions/thin-protocols-cc872258379f
+
+- Putting an end to thoughtless heuristics (Aleksander Bulkin): https://blog.coinfund.io/invest-in-protocols-or-applications-putting-an-end-to-thoughtless-heuristics-8cb477575db1
+
+- Fat protocols aren't new (John Backus): https://medium.com/@jbackus/fat-protocols-arent-new-42d2c538db41
+
+- Fat protocols vs fat dapps vs fat wallets (Jeremey Liew): https://medium.com/lightspeed-venture-partners/fat-protocols-vs-fat-dapps-vs-fat-wallets-4d33ead29130
 
 --------------------------
 
@@ -90,12 +110,23 @@ Decentralization:
 
 - The meaning of decentralization (Vitalik Buterin): https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 
+- The decentralization promise (Aleksander Bulkin): https://blog.coinfund.io/the-decentralization-promise-5b8fbc496c66
+
 - Quantifying decentralization (Balaji Srinivasan): https://news.earn.com/quantifying-decentralization-e39db233c28e
 
 
 Crypto Primitives:
 
+- The emergence of cryptoeconomic primitives (Jacob Horne): https://blog.coinbase.com/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10
+
 - TCRs
+  - Introducing curation markets (Simon de la Rouviere): https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881
+  - Tweetstorm from Fred Ehrsam: https://twitter.com/FEhrsam/status/958388803655184386
+  - Curate This: Token Curated Registries That Don’t Work (Aleksander Bulkin): https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150
+
+The Markets:
+
+- Comparison to Dotcom bubble: https://money.cnn.com/2000/11/09/technology/overview/
 
 
 --------------------------
@@ -119,9 +150,25 @@ Charts
 
 - NVT Signal: http://charts.woobull.com/bitcoin-nvt-signal/
 
+---------------------------------
+
+Blogs
+
+- Elaine's Idle Mind - Elaine Ou: https://elaineou.com/
+
+- Unenumerated - Nick Szabo: http://unenumerated.blogspot.com/
+
+- The Back of the Envelope - Preston Byrne: https://prestonbyrne.com/blog/
+
+- Learning Slowly - John Gleeson: https://www.learningslowly.co/
+
 ----------------------------------
 
 Data Resources
+
+Ecosystem:
+
+- Epicenter: https://epicenter.tv/episodes/
 
 ICOs/Token Sales:
 
@@ -146,10 +193,6 @@ General:
 - Are we decentralized yet? (Jackson Palmer): https://arewedecentralizedyet.com/
 
 - Messari (Ryan Selkis): https://messari.io/
-
-Ecosystem:
-
-- Epicenter: https://epicenter.tv/episodes/
 
 ---------------------------------
 
