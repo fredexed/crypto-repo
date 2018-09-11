@@ -5,31 +5,46 @@ Pre-cursors
 
 The Ethics of Money Production,  Jorg Guido Hulsmann: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
 
-Markets:
+-------------------------
 
-The Bulls
+Valuation
 
-The Bullish Case for Bitcoin, March 2018: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
+Valuation Frameworks:
 
-
-
-The Bears
-
-
-
-
-Valuation Frameworks
 Mosaic: https://s3.us-east-2.amazonaws.com/lanreige/Cryptoasset+Valuation+Techniques.pdf
 
 
-Fund Investment Theses
+Fund Investment Theses:
+
 Placeholder: https://ipfs.io/ipfs/QmZL4eT1gxnE168Pmw3KyejW6fUfMNzMgeKMgcWJUfYGRj/Placeholder%20Thesis%20Summary.pdf
 
+--------------------------
 
-Stablecoins
+Themes:
+
+Stablecoins:
 
 Stablecoin resource list: https://stablecoinindex.com/stablecoin-resources/
 
+--------------------------
+
+Newsletters:
+
+Token Economy: http://weekly.tokeneconomy.co/
+
+Proof of Work: https://proofofwork.substack.com/subscribe
+
+ARK Disrupt: https://ark-invest.com/disruptive-innovation-research
+
+Marty's Bent: https://twitter.us16.list-manage.com/subscribe?u=67eb93253df610fc7b047c270&id=1cdbed15b1
+
+----------------------------------
+
+Charts:
+
+NVT Signal: http://charts.woobull.com/bitcoin-nvt-signal/
+
+----------------------------------
 
 Data resources:
 
@@ -53,16 +68,15 @@ https://arewedecentralizedyet.com/
 
 https://messari.io/
 
-Newsletters:
+----------------------------------
 
-Token Economy: http://weekly.tokeneconomy.co/
+Markets:
 
-Proof of Work: https://proofofwork.substack.com/subscribe
+The Bulls:
 
-ARK Disrupt: https://ark-invest.com/disruptive-innovation-research
+The Bullish Case for Bitcoin, March 2018: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
 
-Marty's Bent: https://twitter.us16.list-manage.com/subscribe?u=67eb93253df610fc7b047c270&id=1cdbed15b1
+---
 
-Charts:
+The Bears:
 
-NVT Signal: http://charts.woobull.com/bitcoin-nvt-signal/
