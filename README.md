@@ -57,6 +57,8 @@ Newsletters:
 
 Token Economy: http://weekly.tokeneconomy.co/
 
+Proof of Work: https://proofofwork.substack.com/subscribe
+
 ARK Disrupt: https://ark-invest.com/disruptive-innovation-research
 
 Marty's Bent: https://twitter.us16.list-manage.com/subscribe?u=67eb93253df610fc7b047c270&id=1cdbed15b1
