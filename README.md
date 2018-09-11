@@ -15,7 +15,7 @@ Easing into it:
 
 ------------------------------
 
-History / Context: 
+Foundations: 
 
 - The bitcoin whitepaper (Satoshi Nakamoto): https://bitcoin.org/bitcoin.pdf, https://www.youtube.com/watch?v=2u2x4T5HfsY
 
@@ -23,13 +23,15 @@ History / Context:
 
 -------------------------------
 
-Why distributed networks?:
+Why crypto?:
+
+- Bitcoin and the separation of money and state (Eric Voorhees): http://moneyandstate.com/bitcoin-separation-money-state/
 
 - Why decentralization matters (Chris Dixon): https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e
 
-- Crypto Tokens: A breakthrough in open network design (Chris Dixon): https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
+- Crypto tokens: A breakthrough in open network design (Chris Dixon): https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
 
-- Thoughts on Tokens (Balaji Srinivasan): https://news.earn.com/thoughts-on-tokens-436109aabcbe
+- Thoughts on tokens (Balaji Srinivasan): https://news.earn.com/thoughts-on-tokens-436109aabcbe
 
 - Crypto tokens and the coming age of protocols (Albert Wenger): https://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol
 
@@ -53,9 +55,9 @@ The Basics:
 
 - Ethereum in 25 minutes (Vitalik Buterin) - note, skip to 2min in: https://www.youtube.com/watch?v=66SaEDzlmP4&feature=youtu.be
 
-- Ethereum whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
-
 - An Intro to Crypto: Building Blocks (Linda Xie): https://a16z.com/2018/05/04/intro-to-crypto/
+
+- Blockchain: the revolution we're not ready for (Haseeb Qureshi): https://haseebq.com/blockchain-the-revolution-were-not-ready-for/
 
 ICOs/Token Sales:
 
@@ -64,6 +66,9 @@ ICOs/Token Sales:
 - Analyzing Token Sale Models (Vitalik Buterin): https://vitalik.ca/general/2017/06/09/sales.html
 
 - Blockchain project ecosystem: https://medium.com/@josh_nussbaum/blockchain-project-ecosystem-8940ababaf27
+
+Use cases:
+- We already know blockchain's killer apps (Haseeb Qureshi): https://haseebq.com/we-already-know-blockchains-killer-apps/
 
 -------------------------
 
@@ -106,29 +111,50 @@ Fat Protocols Dialogue:
 Topic Drill Down
 
 - Bitcoin
-  - Visions of Bitcoin (Nic Carter, hasufly): https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c
+  - Visions of bitcoin (Nic Carter, hasufly): https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c
   
-  - The Bullish Case for Bitcoin, March 2018: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
+  - The bullish case for bitcoin, March 2018: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
   
   - Bitcoin: we don't expect new highs in 2018 (Tuur Demeester): https://medium.com/@tuurdemeester/bitcoin-we-dont-expect-new-highs-in-2018-97e6a7a385f7
   
   - Extensive Bitcoin Resource List (Jameson Lopp): https://lopp.net/bitcoin.html
 
 - Ethereum:
+  - Ethereum whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
+  
+  - What is Ethereum?: https://github.com/ethereum/wiki/wiki/What-is-Ethereum
+  
+  - A Prehistory of the Ethereum Protocol (Vitalik Buterin): https://vitalik.ca/general/2017/09/14/prehistory.html
+  
+  - The Bull Case For Ethereum with Spencer Noon, Cyrus Unesi and Tony Sheng: https://www.spreaker.com/user/10197011/spencer-cyrus-tony
 
 
 - Privacy Coins:
+  - Zcash vs. Monero: Blockchain’s Fundamental Need for Privacy: https://medium.com/theblock1/privacy-blockchains-fundamental-need-acf0a1c52cb4
+  
+  - A Monero Introduction for Beginners: https://steemit.com/monero/@sgp/7yjqso-a-monero-introduction-for-beginners
+  
+  - What are zk-SNARKs? (Jay Graber): https://z.cash/technology/zksnarks.html
+  
+  - Privacy on the blockchain (Vitalik Buterin): https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/
 
 
 - Smart Contract Protocols:
+  - The Evolution of Smart Contracts: https://hackernoon.com/are-smart-contracts-the-future-1d9028f49743
+  
+  - The difference between App Coins and Protocol Tokens (Will Warren): https://blog.0xproject.com/the-difference-between-app-coins-and-protocol-tokens-7281a428348c
+  
+  - A red ocean for smart contract protocols (Tony Sheng): https://www.tonysheng.com/red-ocean
 
 
 - Stablecoins:
   - The search for a stable cryptocurrency (Vitalik Buterin): https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/
   
+  - Stablecoins: designing a price-stable cryptocurrency (Haseeb Qureshi): https://haseebq.com/stablecoins-designing-a-price-stable-cryptocurrency/
+  
   - An overview of stablecoins (Myles Snider): https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/
   
-  - Maker for Dummies: A Plain English Explanation of the Dai Stablecoin (Gregory DiPrisco): https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90
+  - Maker for dummies: A plain english explanation of the dai stablecoin (Gregory DiPrisco): https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90
   
   - Stablecoin resource list (Myles Snider): https://stablecoinindex.com/stablecoin-resources/
   
@@ -155,7 +181,7 @@ Decentralization:
 
 - Quantifying decentralization (Balaji Srinivasan): https://news.earn.com/quantifying-decentralization-e39db233c28e
 
-- Decentralization in Bitcoin and Ethereum: http://hackingdistributed.com/2018/01/15/decentralization-bitcoin-ethereum/
+- Decentralization in bitcoin and ethereum: http://hackingdistributed.com/2018/01/15/decentralization-bitcoin-ethereum/
 
 
 Crypto Primitives:
@@ -165,15 +191,23 @@ Crypto Primitives:
 - TCRs
   - Introducing curation markets (Simon de la Rouviere): https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881
   - Tweetstorm from Fred Ehrsam: https://twitter.com/FEhrsam/status/958388803655184386
-  - Curate This: Token Curated Registries That Don’t Work (Aleksander Bulkin): https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150
+  - Curate this: token curated registries that don’t work (Aleksander Bulkin): https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150
   
 - Cryptocollectibles
-  - Digital Collectibles and the Weird Future of “Digibles” (Josh Stark): https://hackernoon.com/digital-collectibles-and-the-weird-future-of-digibles-f75f4bf0f9aa
+  - Digital collectibles and the weird future of “digibles” (Josh Stark): https://hackernoon.com/digital-collectibles-and-the-weird-future-of-digibles-f75f4bf0f9aa
+  
+--------------------------
 
-The Markets:
+The Markets
 
-- Comparison to Dotcom bubble: https://money.cnn.com/2000/11/09/technology/overview/
+High level:
+- Comparison to dotcom bubble: https://money.cnn.com/2000/11/09/technology/overview/
+- Technological revolutions and techno-economic paradigms (Carlota Perez), note, this is the shortened paper version: http://e-tcs.org/wp-content/uploads/2012/04/PEREZ-Carlota-Technological-revolutions-and-techno-economic-paradigms1.pdf
 
+--------------------------
+
+Development
+- The authoritative guide to blockchain development (Haseeb Qureshi): https://haseebq.com/the-authoritative-guide-to-blockchain-development/
 
 --------------------------
 
@@ -212,6 +246,8 @@ Blogs
 
 - Vitalik Buterin: https://vitalik.ca/
 
+- Tony Sheng: https://www.tonysheng.com/
+
 ----------------------------------
 
 Podcasts
@@ -241,13 +277,13 @@ ICOs/Token Treasuries:
 
 General:
 
-- Onchainfx (Dan McArdle): https://onchainfx.com/
+- Onchainfx: https://onchainfx.com/
 
-- Coinmetrics (Nic Carter): https://coinmetrics.io/
+- Coinmetrics: https://coinmetrics.io/
 
-- Are we decentralized yet? (Jackson Palmer): https://arewedecentralizedyet.com/
+- Are we decentralized yet?: https://arewedecentralizedyet.com/
 
-- Messari (Ryan Selkis): https://messari.io/
+- Messari: https://messari.io/
 
 ---------------------------------
 
