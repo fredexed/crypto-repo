@@ -19,6 +19,8 @@ Foundations:
 
 - The bitcoin whitepaper (Satoshi Nakamoto): https://bitcoin.org/bitcoin.pdf, https://www.youtube.com/watch?v=2u2x4T5HfsY
 
+- A Cypherpunk's Manifesto: https://www.activism.net/cypherpunk/manifesto.html
+
 - Bitcoin's academic pedigree (Arvind Narayanan): https://queue.acm.org/detail.cfm?id=3136559
 
 -------------------------------
@@ -286,6 +288,20 @@ General:
 - Are we decentralized yet?: https://arewedecentralizedyet.com/
 
 - Messari: https://messari.io/
+
+---------------------------------
+
+Reading List
+
+- Digital Gold - Nathaniel Popper
+  - A light read with good context
+  
+- Cryptoassets - Chris Burniske and Jack Tatar
+  - Thoughtful read, good valution methodology
+
+- The Sovereign Individual - James Dale Davidson
+
+- Gödel, Escher, Bach: an Eternal Golden Braid - Douglas Hofstadter
 
 ---------------------------------
 
