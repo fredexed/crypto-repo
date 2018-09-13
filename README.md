@@ -230,6 +230,7 @@ Newsletters
   
 - Satis Group Crypto Week in Review: https://satisgroup.io/
 
+- MIT Chain Letter: https://www.technologyreview.com/newsletters/chain-letter/
 ----------------------------------
 
 Charts
@@ -277,9 +278,9 @@ ICOs/Token Treasuries:
 
 - Project transparency (Santiment): https://projecttransparency.org/
 
-- Dapp capitulation (Brendan Bernstein): http://www.dappcapitulation.com/
-
 - Diar: https://diar.co/ico-treasury-balances/
+
+- Dapp capitulation (needs work): http://www.dappcapitulation.com/
 
 General:
 
