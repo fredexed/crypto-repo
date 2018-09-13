@@ -19,9 +19,11 @@ Foundations:
 
 - The bitcoin whitepaper (Satoshi Nakamoto): https://bitcoin.org/bitcoin.pdf, https://www.youtube.com/watch?v=2u2x4T5HfsY
 
-- A Cypherpunk's Manifesto: https://www.activism.net/cypherpunk/manifesto.html
+- A cypherpunk's manifesto: https://www.activism.net/cypherpunk/manifesto.html
 
 - Bitcoin's academic pedigree (Arvind Narayanan): https://queue.acm.org/detail.cfm?id=3136559
+
+- Shelling out: the origins of money (Nick Szabo): https://nakamotoinstitute.org/shelling-out/
 
 -------------------------------
 
