@@ -288,6 +288,8 @@ General:
 
 - Coinmetrics: https://coinmetrics.io/
 
+- Sifr data: https://www.sifrdata.com/
+
 - Are we decentralized yet?: https://arewedecentralizedyet.com/
 
 - Messari: https://messari.io/
