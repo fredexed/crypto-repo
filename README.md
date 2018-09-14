@@ -121,6 +121,8 @@ Topic Drill Down
   
   - Bitcoin: we don't expect new highs in 2018 (Tuur Demeester): https://medium.com/@tuurdemeester/bitcoin-we-dont-expect-new-highs-in-2018-97e6a7a385f7
   
+  - The great bitcoin scaling debate: a timeline: https://hackernoon.com/the-great-bitcoin-scaling-debate-a-timeline-6108081dbada
+  
   - Extensive bitcoin resource list (Jameson Lopp): https://lopp.net/bitcoin.html
 
 - Ethereum:
