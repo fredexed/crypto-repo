@@ -172,6 +172,10 @@ Topic Drill Down
 
 Concepts
 
+Interdisciplinary nature of cryto:
+
+Why it’s hard to “get” bitcoin: the blockchain spectrum: https://blog.unchained-capital.com/blockchain-spectrum-806847e1c575
+
 Cryptoeconomics:
 
 - Making sense of cryptoeconomics (Josh Stark): https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d
