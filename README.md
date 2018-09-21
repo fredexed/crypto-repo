@@ -178,6 +178,7 @@ Why it’s hard to “get” bitcoin: the blockchain spectrum: https://blog.unch
 
 Cryptoeconomics:
 
+- Economics back into Cryptoeconomics: https://medium.com/econaut/economics-back-into-cryptoeconomics-20471f5ceeea
 - Making sense of cryptoeconomics (Josh Stark): https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d
 - The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics: https://medium.com/cryptoeconomics-australia/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4
 - Cryptoeconomics is hard (Aleksander Bulkin): https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9
