@@ -5,7 +5,7 @@ A monster resource list for the intrepid crypto learner
 
 If you only have 20 minutes:
 
-[A letter to Jamie Dimon (Adam Ludwin, CEO of Interstellar ex. Chain)](https://blog.chain.com/a-letter-to-jamie-dimon-de89d417cb80)
+[A letter to Jamie Dimon](https://blog.chain.com/a-letter-to-jamie-dimon-de89d417cb80) (Adam Ludwin, CEO of Interstellar ex. Chain)
 
 -------------------------------
 
@@ -17,7 +17,7 @@ Easing into it:
 
 Foundations: 
 
-- [The bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf), [Audio](https://www.youtube.com/watch?v=2u2x4T5HfsY) (Satoshi Nakamoto)
+- [The bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf), [audio](https://www.youtube.com/watch?v=2u2x4T5HfsY) (Satoshi Nakamoto)
 
 - A cypherpunk's manifesto: https://www.activism.net/cypherpunk/manifesto.html
 
@@ -31,15 +31,15 @@ Why crypto?:
 
 - Bitcoin and the separation of money and state (Eric Voorhees): http://moneyandstate.com/bitcoin-separation-money-state/
 
-- Why decentralization matters (Chris Dixon): https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e
+- [Why decentralization matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e) (Chris Dixon)
 
-- Crypto tokens: A breakthrough in open network design (Chris Dixon): https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
+- [Crypto tokens: A breakthrough in open network design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) (Chris Dixon)
 
-- Thoughts on tokens (Balaji Srinivasan): https://news.earn.com/thoughts-on-tokens-436109aabcbe
+- [Thoughts on tokens](https://news.earn.com/thoughts-on-tokens-436109aabcbe) (Balaji Srinivasan)
 
-- Crypto tokens and the coming age of protocols (Albert Wenger): https://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol
+- [Crypto tokens and the coming age of protocols](https://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol) (Albert Wenger)
 
-- Why bitcoin matters? (Marc Andressen): https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/
+- [Why bitcoin matters?](https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/) (Marc Andressen)
 
 -------------------------------
 
