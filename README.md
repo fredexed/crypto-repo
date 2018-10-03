@@ -209,6 +209,10 @@ Crypto Primitives:
 - Cryptocollectibles
   - Digital collectibles and the weird future of “digibles” (Josh Stark): https://hackernoon.com/digital-collectibles-and-the-weird-future-of-digibles-f75f4bf0f9aa
   
+Consensus Mechanisms
+
+[A distributed systems primer for non-experts](https://sekniqi.com/blog/a-distributed-systems-primer-for-non-experts.html)
+  
 --------------------------
 
 The Markets
