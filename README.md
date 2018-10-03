@@ -11,13 +11,13 @@ If you only have 20 minutes:
 
 Easing into it:
 
-- Banking on Bitcoin: https://www.netflix.com/title/80154500
+- [Banking on Bitcoin](https://www.netflix.com/title/80154500)
 
 ------------------------------
 
 Foundations: 
 
-- The bitcoin whitepaper (Satoshi Nakamoto): https://bitcoin.org/bitcoin.pdf, https://www.youtube.com/watch?v=2u2x4T5HfsY
+- [The bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf), [Audio](https://www.youtube.com/watch?v=2u2x4T5HfsY) (Satoshi Nakamoto)
 
 - A cypherpunk's manifesto: https://www.activism.net/cypherpunk/manifesto.html
 
