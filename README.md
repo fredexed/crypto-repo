@@ -19,17 +19,17 @@ Foundations:
 
 - [The bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf), [audio](https://www.youtube.com/watch?v=2u2x4T5HfsY) (Satoshi Nakamoto)
 
-- A cypherpunk's manifesto: https://www.activism.net/cypherpunk/manifesto.html
+- [A cypherpunk's manifesto](https://www.activism.net/cypherpunk/manifesto.html)
 
-- Bitcoin's academic pedigree (Arvind Narayanan): https://queue.acm.org/detail.cfm?id=3136559
+- [Bitcoin's academic pedigree](https://queue.acm.org/detail.cfm?id=3136559) (Arvind Narayanan)
 
-- Shelling out: the origins of money (Nick Szabo): https://nakamotoinstitute.org/shelling-out/
+- [Shelling out: the origins of money](https://nakamotoinstitute.org/shelling-out/) (Nick Szabo)
 
 -------------------------------
 
 Why crypto?:
 
-- Bitcoin and the separation of money and state (Eric Voorhees): http://moneyandstate.com/bitcoin-separation-money-state/
+- [Bitcoin and the separation of money and state](http://moneyandstate.com/bitcoin-separation-money-state/) (Eric Voorhees)
 
 - [Why decentralization matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e) (Chris Dixon)
 
