@@ -5,7 +5,7 @@ A monster resource list for the intrepid crypto learner
 
 If you only have 20 minutes:
 
-A letter to Jamie Dimon (Adam Ludwin, CEO of Interstellar ex. Chain): https://blog.chain.com/a-letter-to-jamie-dimon-de89d417cb80
+[A letter to Jamie Dimon (Adam Ludwin, CEO of Interstellar ex. Chain)](https://blog.chain.com/a-letter-to-jamie-dimon-de89d417cb80)
 
 -------------------------------
 
@@ -151,6 +151,8 @@ Topic Drill Down
   - The difference between app coins and protocol tokens (Will Warren): https://blog.0xproject.com/the-difference-between-app-coins-and-protocol-tokens-7281a428348c
   
   - A red ocean for smart contract protocols (Tony Sheng): https://www.tonysheng.com/red-ocean
+  
+  - A deep look into cosmos (Julian Koh): https://medium.com/@juliankoh/a-deep-look-into-cosmos-the-internet-of-blockchains-af3aa1a97a5b
 
 
 - Stablecoins:
