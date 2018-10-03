@@ -13,6 +13,8 @@ Easing into it:
 
 - [Banking on Bitcoin](https://www.netflix.com/title/80154500)
 
+- [Bitcoin explained through emojis](https://medium.com/s/story/making-money-530d2bb2b8f7)
+
 ------------------------------
 
 Foundations: 
