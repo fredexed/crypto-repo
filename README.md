@@ -5,7 +5,7 @@ A monster resource list for the intrepid crypto learner
 
 If you only have 20 minutes:
 
-[A letter to Jamie Dimon](https://blog.chain.com/a-letter-to-jamie-dimon-de89d417cb80) (Adam Ludwin, CEO of Interstellar ex. Chain)
+- [A letter to Jamie Dimon](https://blog.chain.com/a-letter-to-jamie-dimon-de89d417cb80) (Adam Ludwin, CEO of Interstellar ex. Chain)
 
 -------------------------------
 
@@ -312,10 +312,8 @@ General:
 Reading List
 
 - Digital Gold - Nathaniel Popper
-  - A light read with good context
   
 - Cryptoassets - Chris Burniske and Jack Tatar
-  - Thoughtful read, good valution methodology
 
 - The Sovereign Individual - James Dale Davidson
 
