@@ -297,6 +297,10 @@ ICOs/Token Treasuries:
 
 - Dapp capitulation (needs work): http://www.dappcapitulation.com/
 
+Exchanges:
+
+- [Blockchain Transparency](https://www.blockchaintransparency.org/exchangerankings/)
+
 General:
 
 - Onchainfx: https://onchainfx.com/
