@@ -96,6 +96,8 @@ Fund Investment Theses:
 
 - Placeholder: https://ipfs.io/ipfs/QmZL4eT1gxnE168Pmw3KyejW6fUfMNzMgeKMgcWJUfYGRj/Placeholder%20Thesis%20Summary.pdf
 
+- Iterative: https://iterative.capital/thesis/
+
 ---
 
 Fat Protocols Dialogue:
